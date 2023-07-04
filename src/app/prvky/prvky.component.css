@@ -1,0 +1,109 @@
+.wrapper {
+    align-items: center;
+    height:15vh;
+    padding-top: 10vh; 
+    margin:0px;
+    display: flex;
+    flex-direction: row;
+    width:100%; 
+}
+
+.wrapper1 {
+    height:30%;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 10%;
+    width:50%;
+    align-items: center;
+    font-size: 30px;
+}
+
+.button {
+height:40px;
+width: 100px;
+border-color: #D8BFD8;
+background-color: #D8BFD8;
+box-shadow: 0 8px 32px 0 rgb(0 0 0 / 30%);
+font-size: 15px;
+border-radius: 15px;
+filter: drop-shadow(0 0 1rem rgb(0, 234, 255));
+color:white;
+border-style: solid;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+}
+
+
+.wrapper2 {
+    display: flex;
+   align-items: center;
+   width: 5%;
+}
+
+.wrapper3 {
+    display: flex;
+   align-items: center;
+   width: 45%;
+   font-size: 30px;
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+    gap: 2%;
+    height: 50%;
+}
+
+.ng-untouched {
+    width:40%;
+    height: 100%;
+}
+
+.ng-touched {
+    width:40%;
+    height: 100%
+}
+
+input {
+border: solid #D8BFD8 2px;
+border-radius: 50%;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+font-weight: bold;
+}
+
+    input:focus::placeholder {
+        color: transparent;
+        text-align: center;
+        font-weight: bold;
+      }
+
+      input::placeholder {
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        font-weight: bold;
+      }
+
+      input:focus {
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        border: solid #D8BFD8 2px;
+        font-weight: bold;
+      }
+
+      p {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+      }
+
+
+
+/*
+p {
+    padding: 0px;
+    margin: 0px;
+}
+
+/*button {
+    float: right;
+}*/

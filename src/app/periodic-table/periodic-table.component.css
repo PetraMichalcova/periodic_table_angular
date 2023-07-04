@@ -1,0 +1,371 @@
+/* Color code */
+:root {
+    --bg-primary: linear-gradient(to bottom, #9c138f,  #7c15c0);
+ }
+ 
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+ .wrapper1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.7rem;
+    color: #fff;
+    background-image: var(--bg-primary);
+    height:69vh;
+  }
+ 
+ 
+ .wrapper2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ }
+ 
+ .number {
+    font-size: 0.7rem;
+    font-weight: 100;
+ }
+ 
+ .symbol {
+    font-size: 1.1rem;
+    font-weight: 600;
+ }
+ 
+ .element {
+    font-size: 0.56rem;
+    font-weight: 900;
+ }
+ 
+ .group {
+    font-size: 0.6rem;
+    font-weight: 600;
+ }
+ 
+ .container {
+    display: grid;
+    grid-template-columns: repeat(18, 70px);
+   /*grid-auto-rows: minmax(10px, auto); */
+    grid-gap: 0.2rem;
+    padding: 0.5vh 0;
+    grid-template-rows: repeat(7, 65px);
+ }
+
+ .najdeny {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+ }
+ 
+ .box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    /*transform: perspective(600px) rotateY(180deg);*/
+ }
+
+ .boxShining {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+      /*transform: perspective(600px) rotateY(180deg);*/
+   }
+ 
+ 
+ .text {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   /*transform: perspective(600px) rotateY(180deg);*/
+    visibility: hidden;
+ }
+ 
+ /* Grid spans and positions */
+ .box:first-child {
+    grid-column: 1;
+ }
+ 
+ .box:nth-child(2) {
+    grid-column: 18;
+ }
+ 
+ .box:nth-child(5) {
+    grid-column: 13;
+ }
+ 
+ .box:nth-child(12) {
+    grid-column: 2;
+ }
+ 
+ .box:nth-child(13) {
+    grid-column: 13;
+ }
+ 
+ /* Responsive */
+ @media(max-width: 1350px) {
+    .container {
+       grid-template-columns: repeat(18, 60px);
+    }
+ 
+    .box {
+       overflow-x: hidden;
+    }
+ }
+ 
+ @media(max-width: 1230px) {
+    .box:nth-child(2) {
+       grid-column: 2;
+    }
+ }
+ 
+ @media(max-width: 1150px) {
+    .container {
+       grid-template-columns: repeat(10, 70px);
+    }
+ 
+    .box:nth-child(5) {
+       grid-column: 5;
+    }
+ 
+    .box:nth-child(10) {
+       grid-column: 10;
+    }
+ 
+    .box:nth-child(11) {
+       grid-row: 2;
+       grid-column: 1;
+    }
+ 
+    .box:nth-child(13) {
+       grid-row: 2;
+       grid-column: 3;
+    }
+ }
+ 
+ @media(max-width: 800px) {
+    .container {
+       grid-template-columns: repeat(5, 70px);
+    }
+ 
+    .box:nth-child(5) {
+       grid-row: 1;
+    }
+ 
+    .box:nth-child(10) {
+       grid-column: 5;
+       grid-row: 2;
+    }
+ 
+    .box:nth-child(11) {
+       grid-row: 3;
+       grid-column: 1;
+    }
+ 
+    .box:nth-child(13) {
+       grid-row: 3;
+       grid-column: 3;
+    }
+ }
+ 
+ .box {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(20.0px);
+     -webkit-backdrop-filter: blur(3.0px);
+    border: 1px solid rgba(255, 255, 255, 0.10);
+    border-radius: 3px; 
+ }
+ 
+ .box:hover {
+    background:rgba(255, 255, 255, 0.50);
+    border: 1px solid rgba(255, 255, 255, 0.80);
+ }
+ 
+ /* Alkaline Metal & Metalloid */
+ .alkali-metal,
+ .metalloid {
+    background: lavender;
+ }
+ 
+ /* Alkaline Earth, Non Metal & Actinides*/
+ .alkaline-earth,
+ .non-metals,
+ .actinides  {
+    background: #D8BFD8	;
+ }
+ 
+ /* Transition Metals */
+ .transition-metals {
+    background: #DA70D6;
+ }
+ 
+ /* Post Transition */
+ .post-transition-metals {
+    background: #800080;
+ }
+ 
+ /* Hallogen */
+ .halogen {
+    background: #C71585;
+ }
+ 
+ /* Noble Gas & Lanthanides */
+ .noble-gas,
+ .lanthanides {
+    background: #ce07ad;
+ }
+
+ .boxShining {
+   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+   backdrop-filter: blur(20.0px);
+   -webkit-backdrop-filter: blur(3.0px);
+   border: 1px solid rgba(255, 255, 255, 0.10); 
+   border-radius: 3px; 
+   filter: drop-shadow(0 0 1rem rgb(0, 234, 255));
+}
+
+.boxShining:hover {
+   background:rgba(255, 255, 255, 0.50);
+   border: 1px solid rgba(255, 255, 255, 0.80);
+}
+
+
+
+.boxShining:first-child {
+   grid-column: 1;
+}
+
+.boxShining:nth-child(2) {
+   grid-column: 18;
+}
+
+.boxShining:nth-child(5) {
+   grid-column: 13;
+}
+
+.boxShining:nth-child(12) {
+   grid-column: 2;
+}
+
+.boxShining:nth-child(13) {
+   grid-column: 13;
+}
+
+/* Responsive */
+@media(max-width: 1350px) {
+   .container {
+      grid-template-columns: repeat(18, 60px);
+   }
+
+   .boxShining {
+      overflow-x: hidden;
+   }
+}
+
+@media(max-width: 1230px) {
+   .boxShining:nth-child(2) {
+      grid-column: 2;
+   }
+}
+
+@media(max-width: 1150px) {
+   .container {
+      grid-template-columns: repeat(10, 70px);
+   }
+
+   .boxShining:nth-child(5) {
+      grid-column: 5;
+   }
+
+   .boxShining:nth-child(10) {
+      grid-column: 10;
+   }
+
+   .boxShining:nth-child(11) {
+      grid-row: 2;
+      grid-column: 1;
+   }
+
+   .boxShining:nth-child(13) {
+      grid-row: 2;
+      grid-column: 3;
+   }
+}
+
+@media(max-width: 800px) {
+   .container {
+      grid-template-columns: repeat(5, 70px);
+   }
+
+   .boxShining:nth-child(5) {
+      grid-row: 1;
+   }
+
+   .boxShining:nth-child(10) {
+      grid-column: 5;
+      grid-row: 2;
+   }
+
+   .boxShining:nth-child(11) {
+      grid-row: 3;
+      grid-column: 1;
+   }
+
+   .boxShining:nth-child(13) {
+      grid-row: 3;
+      grid-column: 3;
+   }
+}
+
+.grid-container {
+   display: grid;
+   grid-template-columns: repeat(19,70px);
+   color: green;
+   grid-gap: 0.2rem;
+   padding: 0.5vh 0;
+   align-items: center;
+}
+
+.grid-item {
+   font-size: 1.5rem;
+   color: white;
+   text-shadow: -1px 1px 0 #D8BFD8,
+   1px 1px 0 #D8BFD8,
+  1px -1px 0 #D8BFD8,
+ -1px -1px 0 #D8BFD8;
+}
+
+.grid-container2 {
+   display: grid;
+   grid-template-rows: repeat(7, 65px);
+   color: green;
+   grid-gap: 0.2rem;
+   padding: 0.5vh 0;
+   align-items: center;
+   
+}
+
+.grid-item2 {
+   font-size: 1.5rem;
+   width:70px;
+   color: white;
+   text-shadow: -1px 1px 0 #D8BFD8,
+   1px 1px 0 #D8BFD8,
+  1px -1px 0 #D8BFD8,
+ -1px -1px 0 #D8BFD8;
+}
+
+.cnt2 {
+display: flex;
+}

@@ -1,0 +1,990 @@
+[  
+  {  
+    "number": 1,  
+    "symbol": "H",  
+    "element": "Hydrogen",  
+    "group": "Metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 2,  
+    "symbol": "He",  
+    "element": "Helium",  
+    "group": "Noble Gas",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 3,  
+    "symbol": "Li",  
+    "element": "Lithium",  
+    "group": "Alkali metal",
+    "classGroup": "alkali-metal"
+  },  
+  {  
+    "number": 4,  
+    "symbol": "Be",  
+    "element": "Beryllium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 5,  
+    "symbol": "B",  
+    "element": "Boron",  
+    "group": "Metalloid",
+    "classGroup": "metalloid"
+  },  
+  {  
+    "number": 6,  
+    "symbol": "C",  
+    "element": "Carbon",  
+    "group": "Non Metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 7,  
+    "symbol": "N",  
+    "element": "Nitrogen",  
+    "group": "Non Metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 8,  
+    "symbol": "O",  
+    "element": "Oxygen",  
+    "group": "Non Metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 9,  
+    "symbol": "F",  
+    "element": "Flourine",  
+    "group": "Halogen",
+    "classGroup": "halogen"
+  },  
+  {  
+    "number": 10,  
+    "symbol": "Ne",  
+    "element": "Neon",  
+    "group": "Noble Gas",
+    "classGroup": "noble-gas"
+  },  
+  {  
+    "number": 11,  
+    "symbol": "Na",  
+    "element": "Sodium",  
+    "group": "Alkali Metal",
+    "classGroup": "alkali-metal"
+  },  
+  {  
+    "number": 12,  
+    "symbol": "Mg",  
+    "element": "Magnesium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 13,  
+    "symbol": "Al",  
+    "element": "Aluminium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 14,  
+    "symbol": "Si",  
+    "element": "Silicon",  
+    "group": "Metalloid",
+    "classGroup": "metalloid"
+  },  
+  {  
+    "number": 15,  
+    "symbol": "P",  
+    "element": "Phosporus",  
+    "group": "Non metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 16,  
+    "symbol": "S",  
+    "element": "Sulfur",  
+    "group": "Non Metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 17,  
+    "symbol": "Cl",  
+    "element": "Chlorine",  
+    "group": "Halogen",
+    "classGroup": "halogen"
+  } ,  
+  {  
+    "number": 18,  
+    "symbol": "Ar",  
+    "element": "Argon",  
+    "group": "Noble Gas",
+    "classGroup": "noble-gas"
+  },  
+  {  
+    "number": 19,  
+    "symbol": "K",  
+    "element": "Potassium",  
+    "group": "Alkali Metal",
+    "classGroup": "alkali-metal"
+  },  
+  {  
+    "number": 20,  
+    "symbol": "Ca",  
+    "element": "Calcium",  
+    "group": "Alkaline Metal",
+    "classGroup": "alkaline-earth"
+  },  
+  {  
+    "number": 21,  
+    "symbol": "Sc",  
+    "element": "Scandium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 22,  
+    "symbol": "Ti",  
+    "element": "Titanium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 23,  
+    "symbol": "V",  
+    "element": "Vanadium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 24,  
+    "symbol": "Cr",  
+    "element": "Chromium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 25,  
+    "symbol": "Mn",  
+    "element": "Manganese",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 26,  
+    "symbol": "Fe",  
+    "element": "Iron",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 27,  
+    "symbol": "Co",  
+    "element": "Cobalt",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 28,  
+    "symbol": "Ni",  
+    "element": "Nickel",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 29,  
+    "symbol": "Cu",  
+    "element": "Copper",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 30,  
+    "symbol": "Zn",  
+    "element": "Zinc",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 31,  
+    "symbol": "Ga",  
+    "element": "Gallium",  
+    "group": "Post-TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number":32,  
+    "symbol": "Ge",  
+    "element": "Germanium",  
+    "group": "Metalloid",
+    "classGroup": "metalloid"
+  },  
+  {  
+    "number": 33,  
+    "symbol": "As",  
+    "element": "Arsenic",  
+    "group": "Metalloid",
+    "classGroup": "metalloid"
+  },  
+  {  
+    "number": 34,  
+    "symbol": "Se",  
+    "element": "Selenium",  
+    "group": "Non Metal",
+    "classGroup": "non-metals"
+  },  
+  {  
+    "number": 35,  
+    "symbol": "Br",  
+    "element": "Bromine",  
+    "group": "Halogen",
+    "classGroup": "halogen"
+  },  
+  {  
+    "number": 36,  
+    "symbol": "Kr",  
+    "element": "Krypton",  
+    "group": "Noble Gas",
+    "classGroup": "noble-gas"
+  },  
+  {  
+    "number": 37,  
+    "symbol": "Rb",  
+    "element": "Rubidium",  
+    "group": "Alkali Metal",
+    "classGroup": "alkali-metal"
+  },  
+  {  
+    "number": 38,  
+    "symbol": "Sr",  
+    "element": "Strontium",  
+    "group": "Alkaline Earth",
+    "classGroup": "alkaline-earth"
+  },  
+  {  
+    "number": 39,  
+    "symbol": "Y",  
+    "element": "Yttrium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 40,  
+    "symbol": "Zr",  
+    "element": "Zirconnium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 41,  
+    "symbol": "Nb",  
+    "element": "Niobium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 42,  
+    "symbol": "Mo",  
+    "element": "Molybdenum",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 43,  
+    "symbol": "Tc",  
+    "element": "Technetium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 44,  
+    "symbol": "Ru",  
+    "element": "Ruthenium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 45,  
+    "symbol": "Rh",  
+    "element": "Rhodium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 46,  
+    "symbol": "Pd",  
+    "element": "Palladium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 47,  
+    "symbol": "Ag",  
+    "element": "Silver",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 48,  
+    "symbol": "Cd",  
+    "element": "Cadmium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 49,  
+    "symbol": "In",  
+    "element": "Indium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 50,  
+    "symbol": "Sn",  
+    "element": "Tin",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 51,  
+    "symbol": "Sb",  
+    "element": "Antimony",  
+    "group": "Metalloid",
+    "classGroup": "metalloid"
+  },  
+  {  
+    "number": 52,  
+    "symbol": "Te",  
+    "element": "Tellurium",  
+    "group": "Metalloid",
+    "classGroup": "metalloid"
+  },  
+  {  
+    "number": 53,  
+    "symbol": "I",  
+    "element": "Iodine",  
+    "group": "Halogen",
+    "classGroup": "halogen"
+  },  
+  {  
+    "number": 54,  
+    "symbol": "Xe",  
+    "element": "Xenon",  
+    "group": "Noble-Gas",
+    "classGroup": "noble-gas"
+  },  
+  {  
+    "number": 55,  
+    "symbol": "Cs",  
+    "element": "Cesium",  
+    "group": "Alkali Metal",
+    "classGroup": "alkali-metal"
+  },  
+  {  
+    "number": 56,  
+    "symbol": "Ba",  
+    "element": "Barium",  
+    "group": "Alkaline Earth",
+    "classGroup": "alkaline-earth"
+  },  
+  {  
+    "number": "",  
+    "symbol": "*",  
+    "element": "",  
+    "group": "",
+    "classGroup": ""
+  },  
+  {  
+    "number": 72,  
+    "symbol": "Hf",  
+    "element": "Hafnium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 73,  
+    "symbol": "Ta",  
+    "element": "Tantalum",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 74,  
+    "symbol": "W",  
+    "element": "Tungsten",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 75,  
+    "symbol": "Re",  
+    "element": "Rhenium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 76,  
+    "symbol": "Os",  
+    "element": "Osmium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 77,  
+    "symbol": "Ir",  
+    "element": "Iridium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 78,  
+    "symbol": "Pt",  
+    "element": "Platnium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 79,  
+    "symbol": "Au",  
+    "element": "Gold",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 80,  
+    "symbol": "Hg",  
+    "element": "Mercury",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 81,  
+    "symbol": "Tl",  
+    "element": "Thalium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 82,  
+    "symbol": "Pb",  
+    "element": "Lead",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 83,  
+    "symbol": "Bi",  
+    "element": "Bismuth",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 84,  
+    "symbol": "Po",  
+    "element": "Pollonium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 85,  
+    "symbol": "At",  
+    "element": "Astatine",  
+    "group": "Halogen",
+    "classGroup": "halogen"
+  },  
+  {  
+    "number": 86,  
+    "symbol": "Rn",  
+    "element": "Radon",  
+    "group": "Noble Gas",
+    "classGroup": "noble-gas"
+  },  
+  {  
+    "number": 87,  
+    "symbol": "Fr",  
+    "element": "Francium",  
+    "group": "Alkali Metal",
+    "classGroup": "alkali-metal"
+  },  
+  {  
+    "number": 88,  
+    "symbol": "Ra",  
+    "element": "Radium",  
+    "group": "Alkaline Earth",
+    "classGroup": "alkaline-earth"
+  },  
+  {  
+    "number": "",  
+    "symbol": "**",  
+    "element": "",  
+    "group": "",
+    "classGroup": ""
+  },  
+  {  
+    "number": 104,  
+    "symbol": "Rf",  
+    "element": "Rutherfordium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 105,  
+    "symbol": "Db",  
+    "element": "Dubnium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 106,  
+    "symbol": "Sg",  
+    "element": "Seaborgium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 107,  
+    "symbol": "Bh",  
+    "element": "Bohrium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 108,  
+    "symbol": "Hs",  
+    "element": "Hassium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 109,  
+    "symbol": "Mt",  
+    "element": "Meitnerium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 110,  
+    "symbol": "Ds",  
+    "element": "Darmstadium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 111,  
+    "symbol": "Rg",  
+    "element": "Roentgenium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 112,  
+    "symbol": "Cn",  
+    "element": "Copernicium",  
+    "group": "TM",
+    "classGroup": "transition-metals"
+  },  
+  {  
+    "number": 113,  
+    "symbol": "Nh",  
+    "element": "Nihonium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 114,  
+    "symbol": "Fl",  
+    "element": "Flerovium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 115,  
+    "symbol": "Mc",  
+    "element": "Moscovium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 116,  
+    "symbol": "Lv",  
+    "element": "Livermorium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals"
+  },  
+  {  
+    "number": 117,  
+    "symbol": "Ts",  
+    "element": "Tennessine",  
+    "group": "Halogen",
+    "classGroup": "halogen"
+  },  
+  {  
+    "number": 118,  
+    "symbol": "Og",  
+    "element": "Oganesson",  
+    "group": "Noble Gas",
+    "classGroup": "noble-gas"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-94 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-95 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-96 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-97 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-98 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-99 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-100 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-101 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-102 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-103 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-104 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-105 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-106 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-107 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box-108 bg-primary"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box box-109"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box box-110"
+  },  
+  {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box box-111"
+  },  
+  {  
+    "number": 57,  
+    "symbol": "La",  
+    "element": "Lanthanum",  
+    "group": "Lanthanide",
+    "classGroup": "box box-112 lanthanides"
+  },  
+  {  
+    "number": 58,  
+    "symbol": "Ce",  
+    "element": "Cerium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-113 lanthanides"
+  },  
+  {  
+    "number": 59,  
+    "symbol": "Pr",  
+    "element": "Praseodymium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-114 lanthanides"
+  },  
+  {  
+    "number": 60,  
+    "symbol": "Nd",  
+    "element": "Neodymium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-115 lanthanides"
+  },  
+  {  
+    "number": 61,  
+    "symbol": "Pm",  
+    "element": "Promethium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-116 lanthanides"
+  },  
+  {  
+    "number": 62,  
+    "symbol": "Sm",  
+    "element": "Samarium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-117 lanthanides"
+  },  
+  {  
+    "number": 63,  
+    "symbol": "Eu",  
+    "element": "Europium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-118 lanthanides"
+  },  
+  {  
+    "number": 64,  
+    "symbol": "Gd",  
+    "element": "Gadolnium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-119 lanthanides"
+  },  
+  {  
+    "number": 65,  
+    "symbol": "Tb",  
+    "element": "Terbium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-120 lanthanides"
+  },  
+  {  
+    "number": 66,  
+    "symbol": "Dy",  
+    "element": "Dysprosium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-121 lanthanides"
+  },
+  {  
+    "number": 67,  
+    "symbol": "Ho",  
+    "element": "Holmium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-122 lanthanides"
+  },
+  {  
+    "number": 68,  
+    "symbol": "Er",  
+    "element": "Erbium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-123 lanthanides"
+  }, {  
+    "number": 69,  
+    "symbol": "Tm",  
+    "element": "Thulium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-124 lanthanides"
+  }, {  
+    "number": 70,  
+    "symbol": "Yb",  
+    "element": "Ytterbium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-125 lanthanides"
+  }, {  
+    "number": 71,  
+    "symbol": "Lu",  
+    "element": "Lutetium",  
+    "group": "Lanthanide",
+    "classGroup": "box box-126 lanthanides"
+  }, {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box box-127"
+  }, {  
+    "number": "",  
+    "symbol": "",  
+    "element": "Actinides",  
+    "group": "",
+    "classGroup": "box box-128"
+  }, {  
+    "number": "",  
+    "symbol": "",  
+    "element": "",  
+    "group": "",
+    "classGroup": "box box-129"
+  }, {  
+    "number": "89",  
+    "symbol": "Ac",  
+    "element": "Actinium",  
+    "group": "Actinide",
+    "classGroup": "box box-130 actinides"
+  }, {  
+    "number": "90",  
+    "symbol": "Th",  
+    "element": "Thorium",  
+    "group": "Actinide",
+    "classGroup": "box box-131 actinides"
+  }, {  
+    "number": "91",  
+    "symbol": "Pa",  
+    "element": "Protactiunium",  
+    "group": "Actinide",
+    "classGroup": "box box-132 actinides"
+  }, {  
+    "number": "92",  
+    "symbol": "U",  
+    "element": "Uranium",  
+    "group": "Actinide",
+    "classGroup": "box box-133 actinides"
+  }, {  
+    "number": "93",  
+    "symbol": "Np",  
+    "element": "Neptunium",  
+    "group": "Actinide",
+    "classGroup": "box box-134 actinides"
+  }, {  
+    "number": "94",  
+    "symbol": "Pu",  
+    "element": "Plutonium",  
+    "group": "Actinide",
+    "classGroup": "box box-135 actinides"
+  }, {  
+    "number": "95",  
+    "symbol": "Am",  
+    "element": "Americium",  
+    "group": "Actinide",
+    "classGroup": "box box-136 actinides"
+  }, {  
+    "number": "96",  
+    "symbol": "Cm",  
+    "element": "Curium",  
+    "group": "Actinide",
+    "classGroup": "box box-137 actinides"
+  }, {  
+    "number": "97",  
+    "symbol": "Bk",  
+    "element": "Berkelium",  
+    "group": "Actinide",
+    "classGroup": "box box-138 actinides"
+  }, {  
+    "number": "98",  
+    "symbol": "Cf",  
+    "element": "Californium",  
+    "group": "Actinide",
+    "classGroup": "box box-139 actinides"
+  }, {  
+    "number": "99",  
+    "symbol": "Es",  
+    "element": "Einsteinium",  
+    "group": "Actinide",
+    "classGroup": "box box-140 actinides"
+  }, {  
+    "number": "100",  
+    "symbol": "Fm",  
+    "element": "Fermium",  
+    "group": "Actinide",
+    "classGroup": "box box-141 actinides"
+  }, {  
+    "number": "101",  
+    "symbol": "Md",  
+    "element": "Mendelevium",  
+    "group": "Actinide",
+    "classGroup": "box box-142 actinides"
+  }, {  
+    "number": "102",  
+    "symbol": "No",  
+    "element": "Nobelium",  
+    "group": "Actinide",
+    "classGroup": "box box-143 actinides"
+  }, {  
+    "number": "103",  
+    "symbol": "Lr",  
+    "element": "Lawrencium",  
+    "group": "Actinide",
+    "classGroup": "box box-144 actinides"
+  }
+
+] 

@@ -1,0 +1,574 @@
+[
+    {  
+        "number": 1,  
+        "symbol": "H",  
+        "element": "Hydrogen",  
+        "group": "Metal",
+        "classGroup": "non-metals", 
+        "skupina": 1,
+        "perioda": 1
+      },   
+      {  
+        "number": 3,  
+        "symbol": "Li",  
+        "element": "Lithium",  
+        "group": "Alkali metal",
+        "classGroup": "alkali-metal",
+        "skupina": 1,
+        "perioda": 2
+     }, 
+     {  
+     "number": 4,  
+     "symbol": "Be",  
+     "element": "Beryllium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 2,
+     "perioda": 2
+    },  
+    {  
+     "number": 11,  
+     "symbol": "Na",  
+     "element": "Sodium",  
+     "group": "Alkali Metal",
+     "classGroup": "alkali-metal",
+     "skupina": 1,
+     "perioda": 3
+    },  
+    {  
+     "number": 12,  
+     "symbol": "Mg",  
+     "element": "Magnesium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 2,
+     "perioda": 3
+    },   {  
+     "number": 19,  
+     "symbol": "K",  
+     "element": "Potassium",  
+     "group": "Alkali Metal",
+     "classGroup": "alkali-metal",
+     "skupina": 1,
+     "perioda": 4
+    },  
+    {  
+     "number": 20,  
+     "symbol": "Ca",  
+     "element": "Calcium",  
+     "group": "Alkaline Metal",
+     "classGroup": "alkaline-earth",
+     "skupina": 2,
+     "perioda": 4
+    },  {  
+     "number": 37,  
+     "symbol": "Rb",  
+     "element": "Rubidium",  
+     "group": "Alkali Metal",
+     "classGroup": "alkali-metal",
+     "skupina": 1,
+     "perioda": 5
+    },  
+    {  
+     "number": 38,  
+     "symbol": "Sr",  
+     "element": "Strontium",  
+     "group": "Alkaline Earth",
+     "classGroup": "alkaline-earth",
+     "skupina": 2,
+     "perioda": 5
+    },  {  
+     "number": 55,  
+     "symbol": "Cs",  
+     "element": "Cesium",  
+     "group": "Alkali Metal",
+     "classGroup": "alkali-metal",
+     "skupina": 1,
+     "perioda": 6
+    },  
+    {  
+     "number": 56,  
+     "symbol": "Ba",  
+     "element": "Barium",  
+     "group": "Alkaline Earth",
+     "classGroup": "alkaline-earth",
+     "skupina": 2,
+     "perioda": 6
+    },  
+    {  
+     "number": 87,  
+     "symbol": "Fr",  
+     "element": "Francium",  
+     "group": "Alkali Metal",
+     "classGroup": "alkali-metal",
+     "skupina": 1,
+     "perioda": 7
+    },  
+    {  
+     "number": 88,  
+     "symbol": "Ra",  
+     "element": "Radium",  
+     "group": "Alkaline Earth",
+     "classGroup": "alkaline-earth",
+     "skupina": 2,
+     "perioda": 7
+    },   {  
+     "number": 21,  
+     "symbol": "Sc",  
+     "element": "Scandium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 3,
+     "perioda": 4
+    },  
+    {  
+     "number": 22,  
+     "symbol": "Ti",  
+     "element": "Titanium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 4,
+     "perioda": 4
+    },  
+    {  
+     "number": 23,  
+     "symbol": "V",  
+     "element": "Vanadium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 5,
+     "perioda": 4
+    },  
+    {  
+     "number": 24,  
+     "symbol": "Cr",  
+     "element": "Chromium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 6,
+     "perioda": 4
+    },  
+    {  
+     "number": 25,  
+     "symbol": "Mn",  
+     "element": "Manganese",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 7,
+     "perioda": 4
+    },  
+    {  
+     "number": 26,  
+     "symbol": "Fe",  
+     "element": "Iron",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 8,
+     "perioda": 4
+    },  
+    {  
+     "number": 27,  
+     "symbol": "Co",  
+     "element": "Cobalt",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 9,
+     "perioda": 4
+    },  
+    {  
+     "number": 28,  
+     "symbol": "Ni",  
+     "element": "Nickel",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 10,
+     "perioda": 4
+    },  
+    {  
+     "number": 29,  
+     "symbol": "Cu",  
+     "element": "Copper",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 11,
+     "perioda": 4
+    },  
+    {  
+     "number": 30,  
+     "symbol": "Zn",  
+     "element": "Zinc",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 12,
+     "perioda": 4
+    },  
+    {  
+     "number": 31,  
+     "symbol": "Ga",  
+     "element": "Gallium",  
+     "group": "Post-TM",
+     "classGroup": "post-transition-metals",
+     "skupina": 13,
+     "perioda": 4
+    },  
+    {  
+     "number":32,  
+     "symbol": "Ge",  
+     "element": "Germanium",  
+     "group": "Metalloid",
+     "classGroup": "metalloid",
+     "skupina": 14,
+     "perioda": 4
+    },  
+    {  
+     "number": 33,  
+     "symbol": "As",  
+     "element": "Arsenic",  
+     "group": "Metalloid",
+     "classGroup": "metalloid",
+     "skupina": 15,
+     "perioda": 4
+    },  
+    {  
+     "number": 34,  
+     "symbol": "Se",  
+     "element": "Selenium",  
+     "group": "Non Metal",
+     "classGroup": "non-metals",
+     "skupina": 16,
+     "perioda": 4
+    },  
+    {  
+     "number": 35,  
+     "symbol": "Br",  
+     "element": "Bromine",  
+     "group": "Halogen",
+     "classGroup": "halogen",
+     "skupina": 17,
+     "perioda": 4
+    },  
+    {  
+     "number": 36,  
+     "symbol": "Kr",  
+     "element": "Krypton",  
+     "group": "Noble Gas",
+     "classGroup": "noble-gas",
+     "skupina": 18,
+     "perioda": 4
+    },  
+     {  
+     "number": 2,  
+     "symbol": "He",  
+     "element": "Helium",  
+     "group": "Noble Gas",
+     "classGroup": "non-metals",
+     "skupina": 18,
+     "perioda": 1
+    },  
+    {  
+     "number": 5,  
+     "symbol": "B",  
+     "element": "Boron",  
+     "group": "Metalloid",
+     "classGroup": "metalloid",
+     "skupina": 13,
+     "perioda": 2
+    },  
+    {  
+     "number": 6,  
+     "symbol": "C",  
+     "element": "Carbon",  
+     "group": "Non Metal",
+     "classGroup": "non-metals",
+     "skupina": 14,
+     "perioda": 2
+    },  
+    {  
+     "number": 7,  
+     "symbol": "N",  
+     "element": "Nitrogen",  
+     "group": "Non Metal",
+     "classGroup": "non-metals",
+     "skupina": 15,
+     "perioda": 2
+    },  
+    {  
+     "number": 8,  
+     "symbol": "O",  
+     "element": "Oxygen",  
+     "group": "Non Metal",
+     "classGroup": "non-metals",
+     "skupina": 16,
+     "perioda": 2
+    },  
+    {  
+     "number": 9,  
+     "symbol": "F",  
+     "element": "Flourine",  
+     "group": "Halogen",
+     "classGroup": "halogen",
+     "skupina": 17,
+     "perioda": 2
+    },  
+    {  
+     "number": 10,  
+     "symbol": "Ne",  
+     "element": "Neon",  
+     "group": "Noble Gas",
+     "classGroup": "noble-gas",
+     "skupina": 18,
+     "perioda": 2
+    },  
+    {  
+     "number": 13,  
+     "symbol": "Al",  
+     "element": "Aluminium",  
+     "group": "Post TM",
+     "classGroup": "post-transition-metals",
+     "skupina": 13,
+     "perioda": 3
+    },  
+    {  
+     "number": 14,  
+     "symbol": "Si",  
+     "element": "Silicon",  
+     "group": "Metalloid",
+     "classGroup": "metalloid",
+     "skupina": 14,
+     "perioda": 3
+    },  
+    {  
+     "number": 15,  
+     "symbol": "P",  
+     "element": "Phosporus",  
+     "group": "Non metal",
+     "classGroup": "non-metals",
+     "skupina": 15,
+     "perioda": 3
+    },  
+    {  
+     "number": 16,  
+     "symbol": "S",  
+     "element": "Sulfur",  
+     "group": "Non Metal",
+     "classGroup": "non-metals",
+     "skupina": 16,
+     "perioda": 3
+    },  
+    {  
+     "number": 17,  
+     "symbol": "Cl",  
+     "element": "Chlorine",  
+     "group": "Halogen",
+     "classGroup": "halogen",
+     "skupina": 17,
+     "perioda": 3
+    } ,  
+    {  
+     "number": 18,  
+     "symbol": "Ar",  
+     "element": "Argon",  
+     "group": "Noble Gas",
+     "classGroup": "noble-gas",
+     "skupina": 18,
+     "perioda": 3
+    },  {  
+     "number": 49,  
+     "symbol": "In",  
+     "element": "Indium",  
+     "group": "Post TM",
+     "classGroup": "post-transition-metals",
+     "skupina": 13,
+     "perioda": 5
+    },  
+    {  
+     "number": 50,  
+     "symbol": "Sn",  
+     "element": "Tin",  
+     "group": "Post TM",
+     "classGroup": "post-transition-metals",
+     "skupina": 14,
+     "perioda": 5
+    },  
+    {  
+     "number": 51,  
+     "symbol": "Sb",  
+     "element": "Antimony",  
+     "group": "Metalloid",
+     "classGroup": "metalloid",
+     "skupina": 15,
+     "perioda": 5
+    },  
+    {  
+     "number": 52,  
+     "symbol": "Te",  
+     "element": "Tellurium",  
+     "group": "Metalloid",
+     "classGroup": "metalloid",
+     "skupina": 16,
+     "perioda": 5
+    },  
+    {  
+     "number": 53,  
+     "symbol": "I",  
+     "element": "Iodine",  
+     "group": "Halogen",
+     "classGroup": "halogen",
+     "skupina": 17,
+     "perioda": 5
+    },  
+    {  
+     "number": 54,  
+     "symbol": "Xe",  
+     "element": "Xenon",  
+     "group": "Noble-Gas",
+     "classGroup": "noble-gas",
+     "skupina": 18,
+     "perioda": 5
+    },  
+    
+    {  
+     "number": 44,  
+     "symbol": "Ru",  
+     "element": "Ruthenium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 8,
+     "perioda": 5
+    },  
+    {  
+     "number": 45,  
+     "symbol": "Rh",  
+     "element": "Rhodium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 9,
+     "perioda": 5
+    },  
+    {  
+     "number": 46,  
+     "symbol": "Pd",  
+     "element": "Palladium",  
+     "group": "TM",
+     "classGroup": "transition-metals",
+     "skupina": 10,
+     "perioda": 5
+    },  
+    {  
+     "number": 57,  
+     "symbol": "La",  
+     "element": "Lanthanum",  
+     "group": "Lanthanide",
+     "classGroup": "box box-112 lanthanides",
+     "skupina": 4,
+     "perioda": 6
+    },  
+    {  
+     "number": 58,  
+     "symbol": "Ce",  
+     "element": "Cerium",  
+     "group": "Lanthanide",
+     "classGroup": "box box-113 lanthanides",
+     "skupina": 5,
+     "perioda": 6
+    },   
+    {  
+     "number": 89,  
+     "symbol": "Ac",  
+     "element": "Actinium",  
+     "group": "Actinide",
+     "classGroup": "box box-130 actinides",
+     "skupina": 4,
+     "perioda": 7
+    },
+    {  
+     "number": 90,  
+     "symbol": "Th",  
+     "element": "Thorium",  
+     "group": "Actinide",
+     "classGroup": "box box-131 actinides",
+     "skupina": 5,
+     "perioda": 7
+    },
+    {  
+      "number": 76,  
+      "symbol": "Os",  
+      "element": "Osmium",  
+      "group": "TM",
+      "classGroup": "transition-metals",
+      "skupina": 8,
+      "perioda": 6
+    },  
+    {  
+      "number": 77,  
+      "symbol": "Ir",  
+      "element": "Iridium",  
+      "group": "TM",
+      "classGroup": "transition-metals",
+      "skupina": 9,
+      "perioda": 6
+    },  
+    {  
+      "number": 78,  
+      "symbol": "Pt",  
+      "element": "Platnium",  
+      "group": "TM",
+      "classGroup": "transition-metals",
+      "skupina": 10,
+      "perioda": 6
+    }, {  
+      "number": 81,  
+      "symbol": "Tl",  
+      "element": "Thalium",  
+      "group": "Post TM",
+      "classGroup": "post-transition-metals",
+      "skupina": 13,
+      "perioda": 6
+    },  
+    {  
+      "number": 82,  
+      "symbol": "Pb",  
+      "element": "Lead",  
+      "group": "Post TM",
+      "classGroup": "post-transition-metals",
+      "skupina": 14,
+      "perioda": 6
+    },  
+    {  
+      "number": 83,  
+      "symbol": "Bi",  
+      "element": "Bismuth",  
+      "group": "Post TM",
+      "classGroup": "post-transition-metals",
+      "skupina": 15,
+      "perioda": 6
+    },  
+    {  
+    "number": 84,  
+    "symbol": "Po",  
+    "element": "Pollonium",  
+    "group": "Post TM",
+    "classGroup": "post-transition-metals",
+    "skupina": 16,
+    "perioda": 6
+    },  
+    {  
+      "number": 85,  
+      "symbol": "At",  
+      "element": "Astatine",  
+      "group": "Halogen",
+      "classGroup": "halogen",
+      "skupina": 17,
+      "perioda": 6
+    },  
+    {  
+      "number": 86,  
+      "symbol": "Rn",  
+      "element": "Radon",  
+      "group": "Noble Gas",
+      "classGroup": "noble-gas",
+      "skupina": 18,
+      "perioda": 6
+    }
+    ]
+    

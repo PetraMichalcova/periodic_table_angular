@@ -1,0 +1,57 @@
+.drzic1 {
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 2;
+    flex-direction: column;
+}
+
+.alert {
+    border-left: solid #D8BFD8 6px;
+    border-right: solid #D8BFD8 6px;
+    border-bottom: solid #D8BFD8 6px;
+   background-color: white;
+   width:25%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 7px;
+}
+
+.drzic {
+   display: none;
+}
+
+
+.icon {
+    border-top: solid #D8BFD8 6px;
+    border-left: solid #D8BFD8 6px;
+    border-right: solid #D8BFD8 6px;
+    background-color: white;
+    width:25%;
+    display: flex;
+    justify-content: end;
+    padding: 7px;
+}
+
+#faIcon {
+    z-index: 1;
+    cursor: pointer;
+}
+
+/*.alert {
+    position: fixed;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+     top: ; 
+     left: auto;
+     background-color: white;
+}
+*/

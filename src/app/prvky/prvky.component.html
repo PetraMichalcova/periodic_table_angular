@@ -1,0 +1,31 @@
+<div class="wrapper" >
+    <div class="wrapper1">
+        <button class="button" (click)="isClickedAdv()">ADVICE</button>
+    <p>{{data.symbol}}</p>
+    </div>
+    <div class="wrapper2" >
+        <p></p>
+        </div>
+     <div class="wrapper3" >
+        <form [formGroup]="checkoutForm" (ngSubmit)="isClickedF()">
+
+            <div>
+              <label for="skupina">
+                
+              </label>
+              <input id="skupina" type="text" formControlName="skupina" placeholder="G" autocomplete="off">
+            </div>
+          
+            <div>
+              <label for="perioda">
+                
+              </label>
+              <input id="perioda" type="text" formControlName="perioda" placeholder="P" autocomplete="off">
+            </div>
+          
+            <button class="button" type="submit">Confirm</button>
+          
+          </form>
+        </div>
+    </div>
+    
